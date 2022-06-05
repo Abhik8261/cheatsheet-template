@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.nav{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 56px;
+}
+.content{
+    font-family: 'potta one',cursive;
+}
+.logo{
+
+}
+.logo img{
+    width: 32px;
+}
